@@ -1,0 +1,18 @@
+
+#navgationlp{
+    margin-bottom: 0px;
+}
+#slp1{
+    position: fixed;
+    top: 51px;
+}
+.JianJu{
+    margin-top: 51px;
+    padding: 5px;
+    padding-top: 20px;
+    height: 100%;
+    position: fixed;
+    background-color: #f5f5f5;
+    border-right: 1px solid #eee;
+    z-index: 1000;
+}

@@ -1,0 +1,23 @@
+#slp{
+    margin-top: 120px;
+    margin-left: 200px;
+    width: 200px;
+    height: 200px;
+    transform-style: preserve-3d;
+    animation: myAnimal 10s infinite linear alternate;
+}
+@keyframes myAnimal {
+    50%{
+        transform:scale3d(0.5,0.5,0.5)rotate3D(7,1,1,360deg)
+    }
+    100%{
+        transform:translateX(300px)rotate3D(2,1,1,-300deg) }
+}
+.hx{
+    font-size: 50px;
+    text-align: center;
+    line-height: 200px;
+    width: 200px;
+    height: 200px;
+    position: absolute;
+}
