@@ -58,21 +58,21 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="app.js" pinned="false" current-in-tab="true">
+      <file leaf-file-name="app.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/mydoubanmovie/app.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.6188119">
+            <state vertical-scroll-proportion="0.0">
               <caret line="15" column="22" selection-start-line="15" selection-start-column="22" selection-end-line="15" selection-end-column="22" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="08weather_jquery.html" pinned="false" current-in-tab="false">
+      <file leaf-file-name="08weather_jquery.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/08weather_jquery.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="15.441176">
-              <caret line="9" column="22" selection-start-line="9" selection-start-column="22" selection-end-line="9" selection-end-column="22" />
+            <state vertical-scroll-proportion="0.34965035">
+              <caret line="77" column="30" selection-start-line="77" selection-start-column="30" selection-end-line="77" selection-end-column="30" />
               <folding />
             </state>
           </provider>
@@ -100,8 +100,8 @@
         <option value="$PROJECT_DIR$/../fontlr/style.css" />
         <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/css/style.css" />
-        <option value="$PROJECT_DIR$/08weather_jquery.html" />
         <option value="$PROJECT_DIR$/mydoubanmovie/app.js" />
+        <option value="$PROJECT_DIR$/08weather_jquery.html" />
       </list>
     </option>
   </component>
@@ -115,8 +115,8 @@
   </component>
   <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
   <component name="ProjectFrameBounds">
-    <option name="x" value="-5" />
-    <option name="y" value="37" />
+    <option name="x" value="33" />
+    <option name="y" value="119" />
     <option name="width" value="1382" />
     <option name="height" value="743" />
   </component>
@@ -262,7 +262,7 @@
     <option name="totallyTimeSpent" value="37000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-5" y="37" width="1382" height="743" extended-state="0" />
+    <frame x="33" y="119" width="1382" height="743" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.2489019" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
@@ -545,14 +545,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/08weather_jquery.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="15.441176">
-          <caret line="9" column="22" selection-start-line="9" selection-start-column="22" selection-end-line="9" selection-end-column="22" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="-1.4705882">
@@ -588,8 +580,16 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/mydoubanmovie/app.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.6188119">
+        <state vertical-scroll-proportion="0.0">
           <caret line="15" column="22" selection-start-line="15" selection-start-column="22" selection-end-line="15" selection-end-column="22" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/08weather_jquery.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.34965035">
+          <caret line="77" column="30" selection-start-line="77" selection-start-column="30" selection-end-line="77" selection-end-column="30" />
           <folding />
         </state>
       </provider>
