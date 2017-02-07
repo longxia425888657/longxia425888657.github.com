@@ -1,0 +1,16 @@
+.count_down {
+    font-size: 30px;
+    line-height: 1;
+    color: white;
+    text-align: center;
+    width: 464px;
+    margin: 0 0 0 503px;
+    white-space: nowrap;
+    font-family: "Î¢ÈíÑÅºÚ";
+    font-weight: bold;
+
+}
+
+.hour, .min, .sec {
+    margin-left: 9px;
+}
