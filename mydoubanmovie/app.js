@@ -13,7 +13,7 @@
     });
 
     app.constant('URLConfig', {
-        appUrl: 'http://api.douban.com/v2/movie/',
+        appUrl: 'https://api.douban.com/v2/movie/',
         count: 30
     });
 
